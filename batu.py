@@ -8,6 +8,7 @@ def send_discord_webhook(webhook_url, message, num_messages):
         response = requests.post(webhook_url, json=data)
         
         if response.status_code == 204:
+            print("Made By Just-Batu --- Discord: medusamarka")
             print("Mesaj gönderildi.")
         else:
             print("Hata oluştu. Mesaj gönderilemedi.")
