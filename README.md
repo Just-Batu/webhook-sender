@@ -1,5 +1,11 @@
 # webhook-sender
-KURULUM:
+
+# Ne İşe Yarar?
+Bir Webhook'a Mesaj Gönderilmesini Sağlar ve Webhook'a Spam Yaptırabilirsiniz
+
+Made By Batu - Discord medusamarka
+
+# KURULUM:
 
 pkg install python
 
@@ -18,3 +24,6 @@ cd webhook-sender
 ls
 
 python batu.py
+
+
+# İyi Kullanımlar
